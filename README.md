@@ -73,8 +73,7 @@ Impact: Enhances employability by equipping learners with hands-on experience di
 	->Reinforcement Learning: Gamifies the learning experience by providing dynamic challenges and rewards based on user engagement.
 	->K-Means: Group users with similar learning behaviors for collaborative learning experiences.
 	->NLP Model: Enables the platform’s multilingual support, adapting content for learners from diverse linguistic backgrounds.
-	->Selenium: Automates testing and ensures that the platform functions seamlessly across various devices and browsers.
-	->AWS: Manages the deployment, scaling, and security of the platform, ensuring global availability and reliable performance.
+
 
 # Note: Some features will be implemented in future updates.
 
